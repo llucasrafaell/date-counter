@@ -1,8 +1,8 @@
 from datetime import timedelta, datetime #IMPORTANDO APENAS O NECESSÁRIO
 import time
 print()
-print('QUANTO TEMPO FALTA PARA O ANIVERSÁRIO DO LUCAS?')
-print('aceito presentes \o/')
+print('QUANTO TEMPO FALTA PARA O ANIVERSÁRIO DO LUCAS??')
+print('Aceito presentes \o/')
 
 try:
     while True:
